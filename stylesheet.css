@@ -1,0 +1,45 @@
+
+.header{
+    background-color: #E6E6E6;
+    height: 60px;
+    position:fixed
+}
+
+.header-logo{
+    font-size: 20px;
+    font-style: Josefin Sans;
+    padding: 15px 12px;
+    float:left;
+}
+
+.header-list li{
+    list-style: none;
+    float: right;
+    font-style:Josefin Sans;
+    padding:15px 35px
+
+}
+
+.container img{
+ height: 600px;
+ width:100%;
+ object-fit: cover;
+}
+
+
+
+.container-selfintroduction{
+    width:50%;
+    float:left;
+    text-align:center
+}
+
+.container-selfintroduction img{
+    margin: 60px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.selfintroduction h3{
+    font-size:40px;
+}
