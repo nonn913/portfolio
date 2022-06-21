@@ -29,14 +29,16 @@
 
 
 .container-selfintroduction{
+    position:absolute; left: 700px; top: 900px; 
     width:50%;
     float:left;
     text-align:center
 }
 
-.container-selfintroduction img{
+.selfie img{
+    width:50%;
     margin: 60px;
-    padding-left:20px;
+    padding-left:10px;
     padding-right:20px;
 }
 
