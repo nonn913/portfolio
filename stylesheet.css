@@ -44,6 +44,10 @@
     font-size:40px;
 }
 
+.my-designs{
+    position:absolute; left:80px; top: 1500px;  
+}
+
 .contact-form{
     position:absolute; left:80px; top: 2100px;
 }
